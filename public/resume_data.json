@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "description_header": "Hi 👋",
+    "description": "I'm Master of Science in Computer Software Engineering, Information Systems at Northeastern University. I perceive the field of software engineering as enormously rewarding and have always been on the edge when it comes to exploring the power of programming and the wonders it can do. I established my own startup Webphoenix in 2017 and not very recently started working as a Django developer. Thereafter I became an expert in python and writing robust GraphQL APIs. The simplicity of programming using python boils down to two steps- Identify the essential and eliminate the rest. Having production-level experience with the Django framework and being expertise in python what excites me the most is swift automation using python. I am also a web enthusiast having hands-on experience in building various web applications. In addition, I am well versed with database technologies like SQL, MongoDB, PostgreSQL, and gained practical insights while developing the complex and vast backend for various projects. I have a great understanding of large-scale application deployment with Docker and AWS in production environments.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Animal Shelter",
+      "startDate": "2020",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "https://twilio-cms-prod.s3.amazonaws.com/images/django-dark.width-1616.png",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Photography",
+      "startDate": "2018",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "https://twilio-cms-prod.s3.amazonaws.com/images/django-dark.width-1616.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "https://twilio-cms-prod.s3.amazonaws.com/images/django-dark.width-1616.png",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Digital Impact Square, TCS Innovation Center",
+      "title": "Back-End Developer",
+      "years": "Nov 2019 - Nov 2020",
+      "mainTech": [
+        "Django"
+      ],
+      "technologies": [
+        "Django ORM",
+        "REST API",
+        "GraphQL API",
+        "Python",
+        "Docker",
+        "AWS EC2 | S3 | RDS",
+        "Celery",
+        "JWT"
+      ]
+    },
+    {
+      "company": "Webphoenix",
+      "title": "Founder",
+      "years": "Jun 2018 - Oct 2020",
+      "mainTech": [
+        "Cloud Computing"
+      ],
+      "technologies": [
+        "Python",
+        "PHP",
+        "JavaScript",
+        "HTML | CSS | Bootstrap",
+        "Leadership"
+      ]
+    },
+    {
+      "company": "FinIQ",
+      "title": "Software Intern",
+      "years": "May 2018 - Jun 2018",
+      "mainTech": [
+        "Web Technologies"
+      ],
+      "technologies": [
+        "Javascript",
+        "C#",
+        "SQL",
+        "HTML | CSS | Bootstrap",
+        "REST API"
+      ]
+    },
+    {
+      "company": "Digital Impact Squre",
+      "title": "Project Intern",
+      "years": "Oct 2017",
+      "mainTech": [
+        "Web Technologies"
+      ],
+      "technologies": [
+        "SQL",
+        "HTML | CSS | Bootstrap",
+        "REST API"
+      ]
+    }
+  ]
+}
