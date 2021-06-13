@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "name": "Abhishek Satbhai",
+    "titles": [
+      "Front-end Developer",
+      "Back-end Developer",
+      "Full Stack Developer",
+      "React | Django | Node Js"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Abhishek0057",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "gitlab",
+        "url": "https://gitlab.com/Satbhai",
+        "class": "fab fa-gitlab"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abhi_0057/",
+        "class": "fab fa-instagram"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhishek-satbhai-0057/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myPhoto.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "fab fa-html5",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "fab fa-css3",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "fab fa-js",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "fab fa-sass",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "fab fa-bootstrap",
+        "level": "85"
+      },
+      {
+        "name": "Python",
+        "class": "fab fa-python",
+        "level": "65"
+      },
+      {
+        "name": "SQL",
+        "class": "fab fa-sql",
+        "level": "60"
+      },
+      {
+        "name": "React",
+        "class": "fab fa-react",
+        "level": "80"
+      },
+      {
+        "name": "Node Js",
+        "class": "fab fa-node",
+        "level": "60"
+      },
+      {
+        "name": "Docker",
+        "class": "fab fa-docker",
+        "level": "60"
+      },
+      {
+        "name": "AWS",
+        "class": "fab fa-aws",
+        "level": "60"
+      },
+      {
+        "name": "Django",
+        "class": "",
+        "level": "60"
+      }
+    ]
+  }
+}
